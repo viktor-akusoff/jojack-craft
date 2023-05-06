@@ -1,0 +1,15 @@
+worlds:
+  creative:
+    environment: NORMAL
+    gamemode: CREATIVE
+    seed: 5910974657933364
+    monsters:
+      spawn: true
+      exceptions:
+        - creeper
+  survival:
+    environment: NORMAL
+    gamemode: SURVIVAL
+    seed: -3287822446893397
+    monsters:
+      spawn: true
